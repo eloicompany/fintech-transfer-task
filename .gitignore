@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+*.log
+next-env.d.ts
+
+# Не комітьте внутрішні матеріали оцінювання у публічне репо
+INTERVIEWER*.md
+SOLUTION*.md
